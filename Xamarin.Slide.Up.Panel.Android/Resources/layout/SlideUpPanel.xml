@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xamarin.slide.up.panel.android.controls.SlideUpPanelLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:id="@+id/SlideUpPanelLinearLayout"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:padding="20dp"
+	app:CompactLayoutId="@layout/slideuppanelcompact">
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 1"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 2"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 3"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 4"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 5"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 6"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 7"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 8"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 9"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 10"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 11"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 12"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 13"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 14"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 15"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 16"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 17"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 18"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 19"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 20"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 21"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 22"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 23"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 24"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 25"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 26"/>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="5dp"/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Item 27"/>
+</xamarin.slide.up.panel.android.controls.SlideUpPanelLayout>
