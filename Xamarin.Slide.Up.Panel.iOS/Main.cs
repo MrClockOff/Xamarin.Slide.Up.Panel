@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace Xamarin.Slide.Up.Panel
+namespace Xamarin.Slide.Up.Panel.iOS
 {
     public class Application
     {
